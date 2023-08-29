@@ -17,8 +17,12 @@ _[English version](#English)_
 | :rocket: URL         | 🚧Soon
 | :fire: Desafio     | Personal project
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+![Static Badge](https://img.shields.io/badge/Version-1.0-brightgreen?style=flat)
 
 ## Funcionalidades
 
