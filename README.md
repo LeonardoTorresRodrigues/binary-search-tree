@@ -14,7 +14,7 @@ _[English version](#English)_
 | -------------  | --- |
 | :sparkles: Nome        | **Binary Search Tree**
 | :label: Tecnologias | C
-| :rocket: URL         | 🚧Soon
+| :rocket: URL         | https://github.com/LeonardoTorresRodrigues/binary-search-tree.git
 | :fire: Desafio     | Personal project
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
