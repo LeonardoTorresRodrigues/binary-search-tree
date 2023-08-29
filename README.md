@@ -14,7 +14,7 @@ _[English version](#English)_
 | -------------  | --- |
 | :sparkles: Nome        | **Binary Search Tree**
 | :label: Tecnologias | C
-| :rocket: URL         | 
+| :rocket: URL         | 🚧Soon
 | :fire: Desafio     | Personal project
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
@@ -25,7 +25,7 @@ _[English version](#English)_
 Uma Árvore Binária de Busca (Binary Search Tree) é uma estrutura de dados que permite armazenar e recuperar dados de forma eficiente, mantendo-os organizados em uma árvore hierárquica.
 
 - Funcionalidade de busca na árvore
-- Estrutura de O=ordenação de elementos (in-order traversal)
+- Estrutura de ordenação de elementos (in-order traversal)
 - Inserção de elementos na árvore.
 - Estrutura de dados eficiente.
 
@@ -33,7 +33,7 @@ Uma Árvore Binária de Busca (Binary Search Tree) é uma estrutura de dados que
 
 Para usar esse código, siga os passos:
 
-1. CLone o repositório para sua máquina local.
+1. Clone o repositório para sua máquina local.
 2. Compile o código em um compilador de C de sua preferência.
 3. Execute o `main.c`.
 
@@ -85,3 +85,4 @@ Feel free to modify and adapt the code for your specific needs or as a learning 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+Developed by [Leonardo Torres Rodrigues](https://www.linkedin.com/in/leonardo-torres-rodrigues/) ☕🚅🎮🎵
