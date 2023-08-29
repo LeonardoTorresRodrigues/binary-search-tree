@@ -1,1 +1,3 @@
-A binary search tree program in c lenguage
+# binary-search-tree
+
+A common binary search tree program with inorder traversal in C.
