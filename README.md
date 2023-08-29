@@ -20,11 +20,13 @@ _[English version](#English)_
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+![Screenshot](https://github.com/LeonardoTorresRodrigues/binary-search-tree/assets/91892938/77a6df43-2fb6-402d-8b95-a09b861fde6f#vitrinedev)
 
 ![Static Badge](https://img.shields.io/badge/Version-1.0-brightgreen?style=flat)
 
 ## Funcionalidades
+
 
 Uma Árvore Binária de Busca (Binary Search Tree) é uma estrutura de dados que permite armazenar e recuperar dados de forma eficiente, mantendo-os organizados em uma árvore hierárquica.
 
