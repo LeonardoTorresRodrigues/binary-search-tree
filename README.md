@@ -1,8 +1,14 @@
+<div id='top'>
+
 # Binary Search Tree (BST)
+
+</div>
 
 Esse é um projeto simples de implementação de uma Árvore Binária de Busca (Binary Search Tree) em C.
 
 This is a simple implementation of a Binary Search Tree (BST) data structure in C.
+
+_[English version](#English)_
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -36,6 +42,18 @@ Para usar esse código, siga os passos:
   ./binary_search_tree
 ```
 
+Sinta-se livre para modificar e adaptar este código para a sua necessidade ou como uma fonte de aprendizado sobre Árvore Binária de Busca (Binary Search Tree).
+
+<a href='#top'>🔼 Voltar ao topo</a>
+
+---
+
+<div id='English'>
+  
+  _English version_
+
+</div>
+
 ## Features
 
 The code providas functions for inserting elemensts into the tree, performing an in-order traversal, and searching for specific elements within the tree.
@@ -61,6 +79,8 @@ To use this code, follow these steps:
 ```
 
 Feel free to modify and adapt the code for your specific needs or as a learning resource for understanding BSTs.
+
+<a href='#top'>🔼 Back to top</a>
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
