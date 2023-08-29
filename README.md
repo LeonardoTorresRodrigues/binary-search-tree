@@ -18,12 +18,11 @@ _[English version](#English)_
 | :fire: Desafio     | Personal project
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Version-1.0-brightgreen?style=flat)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 ![Screenshot](https://github.com/LeonardoTorresRodrigues/binary-search-tree/assets/91892938/77a6df43-2fb6-402d-8b95-a09b861fde6f#vitrinedev)
-
-![Static Badge](https://img.shields.io/badge/Version-1.0-brightgreen?style=flat)
 
 ## Funcionalidades
 
@@ -88,7 +87,6 @@ Feel free to modify and adapt the code for your specific needs or as a learning 
 
 <a href='#top'>🔼 Back to top</a>
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 Developed by [Leonardo Torres Rodrigues](https://www.linkedin.com/in/leonardo-torres-rodrigues/) ☕🚅🎮🎵
