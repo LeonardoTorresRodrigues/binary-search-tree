@@ -1,3 +1,1 @@
-# Binary Search Tree
- 
- Binary search tree in C language.
+A binary search tree program in c lenguage
