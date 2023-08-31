@@ -18,7 +18,6 @@ _[English version](#English)_
 | :fire: Desafio     | Personal project
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Version-1.0-brightgreen?style=flat)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
