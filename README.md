@@ -15,7 +15,6 @@ _[English version](#English)_
 | :sparkles: Nome        | **Binary Search Tree**
 | :label: Tecnologias | C
 | :rocket: URL         | https://github.com/LeonardoTorresRodrigues/binary-search-tree.git
-| :fire: Desafio     | Personal project
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
