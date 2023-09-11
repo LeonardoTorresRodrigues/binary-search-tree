@@ -20,10 +20,11 @@ _[English version](#English)_
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-![Screenshot](https://github.com/LeonardoTorresRodrigues/binary-search-tree/assets/91892938/77a6df43-2fb6-402d-8b95-a09b861fde6f#vitrinedev)
+<img width="2096" alt="B-trees (1)" src="https://github.com/LeonardoTorresRodrigues/binary-search-tree/assets/91892938/392174e4-d316-4a91-999d-3b409f6efe07#vitrinedev">
+
+![Screenshot](https://github.com/LeonardoTorresRodrigues/binary-search-tree/assets/91892938/77a6df43-2fb6-402d-8b95-a09b861fde6f)
 
 ## Funcionalidades
-
 
 Uma Árvore Binária de Busca (Binary Search Tree) é uma estrutura de dados que permite armazenar e recuperar dados de forma eficiente, mantendo-os organizados em uma árvore hierárquica.
 
