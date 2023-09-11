@@ -86,6 +86,8 @@ Feel free to modify and adapt the code for your specific needs or as a learning 
 
 <a href='#top'>🔼 Back to top</a>
 
+## License
 
+[MIT License](https://github.com/LeonardoTorresRodrigues/binary-search-tree/blob/main/LICENSE)
 
 Developed by [Leonardo Torres Rodrigues](https://www.linkedin.com/in/leonardo-torres-rodrigues/) ☕🚅🎮🎵
